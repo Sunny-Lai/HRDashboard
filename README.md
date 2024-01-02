@@ -1,7 +1,7 @@
 <h1>Human Resources Dashboard</h1>
 
 <h2>Objective</h2>
-In this project, I utilized SQL to assist the HR department in calculating the distribution of bonuses based on a Abesenteesism incentive program. A Dashboard was then created to display Abenteeism metrics.
+In this project, I utilized SQL to assist the HR department in calculating the distribution of bonuses based on a health incentive program. A Dashboard was then created to display Abenteeism health metrics.
 
 <img src="https://github.com/Sunny-Lai/HRDashboard/blob/main/HRAnalytics.png" width="300">
 
